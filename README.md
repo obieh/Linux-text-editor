@@ -100,6 +100,24 @@
 
 ![open nano](./img/nano_file.png)
 
+* Enter desired text on nano
+
+![text nano](./img/nano_text.png)
+
+* To save file in nano. Hit 'ctrl' + 'o', nano prompts to confirm file name. Hit 'enter' to save.
+
+* To exit nano use 'crtl' + 'x'. Nano prompts you to save unsaved files if any.
+
+![exit-nano](./img/nano_exit.png)
+
+* To open existing file, type nano <filename>
+
+![open existing nana](./img/nano_existing.png)
+
+
+
+
+
 
 
 
