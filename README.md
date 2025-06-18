@@ -1,5 +1,5 @@
-# Linux-text-editor
-## This project demonstrates how to use text editors in linux
+# Linux-text-editor.
+## This project demonstrates how to use text editors in linux.
 
 ### For Linux users, text editors are essential tools that play a crucial role in various tasks, from coding and writing to system administration and configuration management. Linux offers a wide range of text editors, catering to different preferences and use cases. In this article, we will delve into the world of Linux text editors, exploring their features, strengths, and popular choices among the community.
 
@@ -7,7 +7,7 @@
 
 * Vi or Vim text editor(VIM means Vi Improved).
 * Nano text editor.
-## basic vim commands
+## basic vim commands.
 ### How to Delete Multiple Lines in Vim Editor
 
 * Go to normal mode by hitting Esc
