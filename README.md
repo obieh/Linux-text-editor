@@ -39,20 +39,20 @@
 * Entire file content will be highlighted
 * Perform desired operation (cut, copy, etc.)
 * Hit Ctrl+6 to deselect
-## How to Undo in Nano Editor
+## How to Undo in Nano Editor.
 
 * Press Alt+U to undo last operation
 * Nano has limited undo capability
-## How to Move End of the Line in Nano
+## How to Move End of the Line in Nano.
 
 * Hit Ctrl+E to jump cursor to end of current line
-## How to Save and Exit in Nano Editor in Linux
+## How to Save and Exit in Nano Editor in Linux.
 
 * Hit Ctrl+X to exit
 * Hit Y to save modified buffer
 * Hit N to exit without saving
 
-## Hands on vim
+## Hands on vim.
 
 * To open a new file named exercise.txt. Run `vim exercise.txt`
 
