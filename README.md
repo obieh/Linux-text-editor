@@ -3,34 +3,34 @@
 
 ### For Linux users, text editors are essential tools that play a crucial role in various tasks, from coding and writing to system administration and configuration management. Linux offers a wide range of text editors, catering to different preferences and use cases. In this article, we will delve into the world of Linux text editors, exploring their features, strengths, and popular choices among the community.
 
-### Mostly Used Text Editors in Linux
+### Mostly Used Text Editors in Linux.
 
 * Vi or Vim text editor(VIM means Vi Improved).
 * Nano text editor.
 ## basic vim commands.
-### How to Delete Multiple Lines in Vim Editor
+### How to Delete Multiple Lines in Vim Editor.
 
 * Go to normal mode by hitting Esc
 * To delete a single line, type "dd"
-* To delete multiple lines, type "nd" where n is the number of lines (e.g. 5d deletes 5 lines)
-* To delete a range of lines, type "x,yd" where x is start line and y is end line (e.g. 5,8d)
-## Editing Mode | Insert Mode in Vim Editor
+* To delete multiple lines, type "nd" where n is the number of lines (e.g. 5d deletes 5 lines).
+* To delete a range of lines, type "x,yd" where x is start line and y is end line (e.g. 5,8d).
+## Editing Mode | Insert Mode in Vim Editor.
 
 * From normal mode, enter insert mode by typing "i" to insert before the cursor
 * Or type "a" to insert after the cursor position
 * Or type "o" to start a new line below in insert mode
 * Hit Esc to go back to normal mode when done inserting
-## How to Save a File in Vim Editor & Quit
+## How to Save a File in Vim Editor & Quit.
 
 * To save, go to normal mode and type ":w" then hit Enter
 * To quit, type ":q" and hit Enter
 * To save and quit, type ":wq"
 * To force quit without saving, type ":q!"
 
-## Nano Editor
+## Nano Editor.
 ### Nano is a user-friendly and lightweight command-line text editor widely used on Unix-based systems, known for its simple interface with on-screen keyboard shortcuts, syntax highlighting support for programming languages, and basic editing features like search/replace, undo/redo, and multiple file buffers, making it an accessible choice for beginners and experienced users alike.
 
-## How to Select all in Nano Text Editor
+## How to Select all in Nano Text Editor.
 
 * Open file in nano
 * Hit Ctrl+X to access main menu
